@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
     -->
 
-# My Blog
+# My Blog(https://dbug-dbug.github.io/)
 
-![My Blog](https://dbug-dbug.github.io/)
 
 # Data of project
 
