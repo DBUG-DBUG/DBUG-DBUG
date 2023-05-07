@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # My Blog(https://dbug-dbug.github.io/)
 
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/sqlsec/count.svg)
 
 # Data of project
 
