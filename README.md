@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
     -->
 
-# My Blog(https://dbug-dbug.github.io/)
+# ![My Blog](https://dbug-dbug.github.io/)
 
-# Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/DBUG-DBUG/count.svg)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 # Data of project
 
