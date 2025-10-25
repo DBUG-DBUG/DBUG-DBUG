@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ![My Blog](https://dbug-dbug.github.io/)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBUG-DBUG&layout=compact)](https://github.com/DBUG-DBUG/github-readme-stats)
 
 # Data of project
 
