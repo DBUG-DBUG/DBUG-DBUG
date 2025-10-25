@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
     -->
 
-# ![My Blog](https://dbug-dbug.github.io/)
-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBUG-DBUG&layout=compact)](https://github.com/DBUG-DBUG/github-readme-stats)
+# [My Blog](https://dbug-dbug.github.io/)
 
 # Data of project
 
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
             <center><img src="https://github-readme-stats.vercel.app/api?username=DBUG-DBUG&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
         </td>
         <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=DBUG-DBUG&show_icons=true&hide_border=true&theme=highcontrast" ></center>
+            <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBUG-DBUG&layout=compact&theme=chartreuse-dark" ></center>
         </td>
     </tr>
 </table>
